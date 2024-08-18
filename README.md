@@ -2,7 +2,9 @@
 - 🔭 I’m currently working on sniper tools
 - 🌱 I’m currently learning js
 - 💲 I'm make paid tools! 
-- 👀 discord : zante46
+- 📞 Contact Types : 
+ +996 995 947 727 
+ zante46 
 ---------------------------
 - ☕ Buy me a coffee
 - LTC : ltc1q79jlwfunzd6p4nunhvnej3sy6nysy6k3vdk7lu 
