@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js
 - 💲 I'm make paid tools
 - 👀 discord : zante46
-
+---------------------------
 - ☕ Buy me a coffee
 - LTC : ltc1q79jlwfunzd6p4nunhvnej3sy6nysy6k3vdk7lu
 - BTC : bc1qp6aqv0xqg4n276gadvv6mutj63qds7xdyassku
